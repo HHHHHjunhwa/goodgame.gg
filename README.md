@@ -18,11 +18,14 @@
 
 # 개발자 소개
 
-| 구분 | 이름 | 담당 | github |
+| 구분 | 이름  | 담당 | github |
+|----|-----|----|--------|
+| 팀장 | 백사랑 | 1  | 6      |
+| 팀원 | 윤도영 | 2  | 7      |
+| 팀원 | 홍준화 | 3  | 8      |
+| 팀원 | 남병선 | 4  | 9      |
+| 팀원 | 창미주 | 5  | 0      |
 
-| --- | --- | --- | --- |
-
- ![example image](https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/goodgame.gg-main/goodgame.gg/src/main/resources/static/images/position/bottom.png) 
 
 # 개발환경
 
