@@ -20,11 +20,11 @@
 
 | 구분 | 이름  | 담당 | github |
 |----|-----|----|--------|
-| 팀장 | 백사랑 | 커뮤니티 게시판  | [op.gg](https://OP.GG/)      |
-| 팀원 | 윤도영 | 전적검색/회원가입/로그인&로그아웃  | [op.gg](https://OP.GG/)      |
-| 팀원 | 홍준화 | 듀오찾기/LOL-BTI  | [op.gg](https://github.com/HHHHHjunhwa/)      |
-| 팀원 | 남병선 | 랭킹/ 로테이션 챔피언  | [op.gg](https://OP.GG/)      |
-| 팀원 | 창미주 | 내 정보(마이페이지)/LOL-BTI  | [op.gg](https://OP.GG/)      |
+| 팀장 | 백사랑 | 커뮤니티 게시판  | [Arzro](https://github.com/Arzro/)      |
+| 팀원 | 윤도영 | 전적검색/회원가입/로그인&로그아웃  | [dozero25](https://github.com/dozero25/)      |
+| 팀원 | 홍준화 | 듀오찾기/LOL-BTI  | [HHHHHjunhwa](https://github.com/HHHHHjunhwa/)      |
+| 팀원 | 남병선 | 랭킹/ 로테이션 챔피언  | [RedPanda0000](https://github.com/RedPanda0000/)      |
+| 팀원 | 창미주 | 내 정보(마이페이지)/LOL-BTI  | [chis050](https://github.com/chis050/)      |
 
 
 # 개발환경
