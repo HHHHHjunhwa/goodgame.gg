@@ -31,11 +31,17 @@
 
 * 협업툴  
    *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/slack.PNG" width="50px" height="50px"> __Slack__
-   *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/github.PNG" width="50px" height="50px"> __GitHub__
+
+  *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/github.PNG" width="50px" height="50px"> __GitHub__
+
    *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/sourcetree.PNG" width="50px" height="50px"> __SourceTree__
+
     *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/figma.PNG" width="50px" height="50px"> __Figma__
+
     *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/swagger.PNG" width="50px" height="50px"> __Swagger__
+
     *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/notion.PNG" width="50px" height="50px"> __Notion__
+
     *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/spreadsheet.PNG" width="50px" height="50px"> __SpreadSheet__
                
  
