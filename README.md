@@ -17,7 +17,7 @@
 
 
 # 개발자 소개
-![example image](https://i.namu.wiki/i/uA93Hbv0YiFsnF6THuTx8jR0RBO7q0oihGf1JXShTYN34j6D7tqZL1itE0kj-y0GdDkpTpfSqtkmgNWuchK17Q.svg)
+![example image](https://img.theqoo.net/RqWnb)
 
 # 개발환경
 
