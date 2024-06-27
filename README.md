@@ -30,7 +30,7 @@
 # 개발환경
 
 * 협업툴  
-   *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/slack.PNG" width="50px" height="50px">
+   *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/slack.PNG" width="50px" height="50px"> __SLACK__
                
  
 
