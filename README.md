@@ -30,7 +30,7 @@
 # 개발환경
 
 * 협업툴  
-   *![슬랙이미지](https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/slack.PNG))  슬랙 
+   *![슬랙이미지](https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/slack.PNG){: width="50" height="50"}  슬랙 
                
  
 
