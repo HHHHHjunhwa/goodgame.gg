@@ -38,7 +38,24 @@
    <img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/notion.PNG" width="50px" height="50px"> __Notion__
   <img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/spreadsheet.PNG" width="50px" height="50px"> __SpreadSheet__
                
- 
+ * Back-End  
+   *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/back_end_img/springboot.PNG" width="50px" height="50px"> __SpringBoot__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/back_end_img/java.PNG" width="50px" height="50px"> __Java__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/back_end_img/mybatis.PNG" width="50px" height="50px"> __MyBatis__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/back_end_img/javascript.PNG" width="50px" height="50px"> __JavaScript__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/back_end_img/maven.PNG" width="50px" height="50px"> __Maven__
+
+ * Front-End  
+   *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/front_end_img/html.PNG" width="50px" height="50px"> __HTML__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/front_end_img/css.PNG" width="50px" height="50px"> __CSS__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/front_end_img/ajax.PNG" width="50px" height="50px"> __aJax__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/front_end_img/jquery.PNG" width="50px" height="50px"> __jQuery__
+
+
+ * Server  
+   *<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/server_img/mysql.PNG" width="50px" height="50px"> __MySql__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/server_img/ncp.PNG" width="50px" height="50px"> __NCP__
+
 
 # 주요 기능
 
