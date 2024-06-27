@@ -17,7 +17,7 @@
 
 
 # 개발자 소개
-![example image](https://img.theqoo.net/RqWnb)
+![example image](https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/goodgame.gg-main/goodgame.gg/src/main/resources/static/images/position/bottom.png)
 
 # 개발환경
 
