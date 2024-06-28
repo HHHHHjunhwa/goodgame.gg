@@ -65,6 +65,8 @@
 
 1. 홈 화면
 
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="50px" height="50px"> __Maven__
+
 2. 전적 검색 
 
 * 일반검색
