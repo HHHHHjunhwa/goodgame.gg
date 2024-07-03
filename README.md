@@ -71,64 +71,64 @@
 
 * 일반검색
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/search_1.PNG" width="500px" height="500px"> __Maven__
 
 * 세부정보
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/search_detail.PNG" width="500px" height="500px"> __Maven__
 
 3. 랭킹
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/ranking_1.PNG" width="500px" height="500px"> __Maven__
 
 4. 듀오 찾기
 
 * 듀오 정보
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/duo_1.PNG" width="500px" height="500px"> __Maven__
 
 * 듀오 구인글 작성
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/duo_2.PNG" width="500px" height="500px"> __Maven__
 
 5. 커뮤니티
 
 * 커뮤니티 메인
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_1.PNG" width="500px" height="500px"> __Maven__
 
 * 글 작성
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_write.PNG" width="500px" height="500px"> __Maven__
 
 * 글 수정/삭제
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_delete.PNG" width="500px" height="500px"> __Maven__
 
 * 글 상세정보
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_details" width="500px" height="500px"> __Maven__
 
 * 댓글
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_reply.PNG" width="500px" height="500px"> __Maven__
 
 6. 마이페이지
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/mypage.PNG" width="500px" height="500px"> __Maven__
 
 7. LOL-BTI
 
 * 메인화면
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/lolbti_1.PNG" width="500px" height="500px"> __Maven__
 
 * 질문과 선택지
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/lolbti_2.PNG" width="500px" height="500px"> __Maven__
 
 * 결과
    
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/lolbti_3.PNG" width="500px" height="500px"> __Maven__
 
 
