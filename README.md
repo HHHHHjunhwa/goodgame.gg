@@ -4,7 +4,7 @@
 
 # 프로젝트 소개
 
-[op.gg](https://OP.GG/)와 [lol.ps](https://lol.ps/)와 같은 전적검색 사이트를 벤치마킹하여 제작한 서비스 사이트입니다
+[op.gg](https://OP.GG/)와 [lol.ps](https://lol.ps/)와 같은 롤 전적검색 사이트를 벤치마킹하여 제작한 서비스 사이트입니다
 
 
 # 개발 기간
