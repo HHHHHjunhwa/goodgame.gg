@@ -67,19 +67,26 @@
 
 <img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px">
 
-* 리그 오브 레전드 게임 아이디를 검색하여 전적 검색(2) 기능
+* 게임 아이디를 검색하여 전적 검색 -- 빈 문자열 OR 아이디+태그라인으로 입력하지 않으면 오류 메세지 출력
 
-* 
+* 매 주 마다 변경되는 로테이션 챔피언들의 기본 정보와 스킬 정보 출력
+
+* 다양한 메뉴들로 이동 가능(랭킹, 듀오찾기,LOL-BTI,커뮤니티,마이페이지)
 
 2. 전적 검색 
 
 * 일반검색
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/search_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/search_1.PNG" width="500px" height="500px"> 
+
+* 최근 20개의 전적을 차례대로 출력하며 기본적인 데이터(게임 참가 아이디,챔피언,스펠,게임 진행 시간, 게임 승패여부등) 출력
 
 * 세부정보
 
 <img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/search_detail.PNG" width="500px" height="500px"> __Maven__
+
+* 일반 검색에서 화살표를 클릭하면 선택한 게임의 상세 정보(게임 내 1위 기록들, 라인정보, 아이템, KDA등) 출력
+
 
 3. 랭킹
 
