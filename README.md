@@ -107,7 +107,7 @@
 
 * 글 상세정보
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_details" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/community_details.PNG" width="500px" height="500px"> __Maven__
 
 * 댓글
 
