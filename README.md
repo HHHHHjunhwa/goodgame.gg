@@ -65,7 +65,11 @@
 
 1. 홈 화면
 
-<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px"> __Maven__
+<img src="https://github.com/HHHHHjunhwa/goodgame.gg/blob/main/capture/hone_1.PNG" width="500px" height="500px">
+
+* 리그 오브 레전드 게임 아이디를 검색하여 전적 검색(2) 기능
+
+* 
 
 2. 전적 검색 
 
